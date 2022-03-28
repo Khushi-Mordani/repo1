@@ -1,0 +1,8 @@
+1 Name:abc	Marks:45	Branch:EC	Location:abc
+2 Name:xyz	Marks:78	Branch:CE	Location:xyz
+3 Name:pqr	Marks:90	Branch:ME	Location:pqr
+4 Name:acs	Marks:100	Branch:IT	Location:rst
+abc
+28
+5 huj ic yui
+1 m k l
